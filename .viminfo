@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1661582553,,"wq!"
+|2,0,1661657944,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,40 +25,160 @@
 # Registers:
 
 # File marks:
-'0  5  19  ~/my_script.sh
-|4,48,5,19,1661584187,"~/my_script.sh"
-'1  10  13  ~/my_script.sh
-|4,49,10,13,1661582553,"~/my_script.sh"
-'2  10  0  ~/my_script.sh
-|4,50,10,0,1661582096,"~/my_script.sh"
-'3  6  11  ~/my_script.sh
-|4,51,6,11,1661581511,"~/my_script.sh"
-'4  4  11  ~/my_script.sh
-|4,52,4,11,1661581511,"~/my_script.sh"
-'5  4  11  ~/my_script.sh
-|4,53,4,11,1661581511,"~/my_script.sh"
-'6  4  11  ~/my_script.sh
-|4,54,4,11,1661581511,"~/my_script.sh"
+'0  1  9  ~/devops/3.txt
+|4,48,1,9,1661657944,"~/devops/3.txt"
+'1  1  19  ~/devops/2.txt
+|4,49,1,19,1661657799,"~/devops/2.txt"
+'2  2  4  ~/devops/1.txt
+|4,50,2,4,1661657785,"~/devops/1.txt"
+'3  5  19  ~/my_script.sh
+|4,51,5,19,1661584187,"~/my_script.sh"
+'4  10  13  ~/my_script.sh
+|4,52,10,13,1661582553,"~/my_script.sh"
+'5  10  0  ~/my_script.sh
+|4,53,10,0,1661582096,"~/my_script.sh"
+'6  6  11  ~/my_script.sh
+|4,54,6,11,1661581511,"~/my_script.sh"
 '7  4  11  ~/my_script.sh
 |4,55,4,11,1661581511,"~/my_script.sh"
-'8  1  0  ~/my
-|4,56,1,0,1661530109,"~/my"
-'9  2  27  ~/my_new_file1
-|4,57,2,27,1661520920,"~/my_new_file1"
+'8  4  11  ~/my_script.sh
+|4,56,4,11,1661581511,"~/my_script.sh"
+'9  4  11  ~/my_script.sh
+|4,57,4,11,1661581511,"~/my_script.sh"
 
 # Jumplist (newest first):
+-'  1  9  ~/devops/3.txt
+|4,39,1,9,1661657944,"~/devops/3.txt"
+-'  1  19  ~/devops/2.txt
+|4,39,1,19,1661657799,"~/devops/2.txt"
+-'  1  19  ~/devops/2.txt
+|4,39,1,19,1661657799,"~/devops/2.txt"
+-'  2  4  ~/devops/1.txt
+|4,39,2,4,1661657785,"~/devops/1.txt"
+-'  2  4  ~/devops/1.txt
+|4,39,2,4,1661657785,"~/devops/1.txt"
+-'  2  4  ~/devops/1.txt
+|4,39,2,4,1661657785,"~/devops/1.txt"
+-'  2  4  ~/devops/1.txt
+|4,39,2,4,1661657785,"~/devops/1.txt"
+-'  1  0  ~/devops/1.txt
+|4,39,1,0,1661657778,"~/devops/1.txt"
+-'  1  0  ~/devops/1.txt
+|4,39,1,0,1661657778,"~/devops/1.txt"
+-'  1  0  ~/devops/1.txt
+|4,39,1,0,1661657778,"~/devops/1.txt"
+-'  1  0  ~/devops/1.txt
+|4,39,1,0,1661657778,"~/devops/1.txt"
+-'  5  19  ~/my_script.sh
+|4,39,5,19,1661584187,"~/my_script.sh"
+-'  5  19  ~/my_script.sh
+|4,39,5,19,1661584187,"~/my_script.sh"
+-'  5  19  ~/my_script.sh
+|4,39,5,19,1661584187,"~/my_script.sh"
+-'  5  19  ~/my_script.sh
+|4,39,5,19,1661584187,"~/my_script.sh"
+-'  5  19  ~/my_script.sh
+|4,39,5,19,1661584187,"~/my_script.sh"
+-'  5  19  ~/my_script.sh
+|4,39,5,19,1661584187,"~/my_script.sh"
+-'  5  19  ~/my_script.sh
+|4,39,5,19,1661584187,"~/my_script.sh"
 -'  5  19  ~/my_script.sh
 |4,39,5,19,1661584187,"~/my_script.sh"
 -'  10  13  ~/my_script.sh
 |4,39,10,13,1661582553,"~/my_script.sh"
+-'  10  13  ~/my_script.sh
+|4,39,10,13,1661582553,"~/my_script.sh"
+-'  10  13  ~/my_script.sh
+|4,39,10,13,1661582553,"~/my_script.sh"
+-'  10  13  ~/my_script.sh
+|4,39,10,13,1661582553,"~/my_script.sh"
+-'  10  13  ~/my_script.sh
+|4,39,10,13,1661582553,"~/my_script.sh"
+-'  10  13  ~/my_script.sh
+|4,39,10,13,1661582553,"~/my_script.sh"
+-'  10  13  ~/my_script.sh
+|4,39,10,13,1661582553,"~/my_script.sh"
+-'  10  13  ~/my_script.sh
+|4,39,10,13,1661582553,"~/my_script.sh"
+-'  10  0  ~/my_script.sh
+|4,39,10,0,1661582096,"~/my_script.sh"
+-'  10  0  ~/my_script.sh
+|4,39,10,0,1661582096,"~/my_script.sh"
+-'  10  0  ~/my_script.sh
+|4,39,10,0,1661582096,"~/my_script.sh"
+-'  10  0  ~/my_script.sh
+|4,39,10,0,1661582096,"~/my_script.sh"
+-'  10  0  ~/my_script.sh
+|4,39,10,0,1661582096,"~/my_script.sh"
+-'  10  0  ~/my_script.sh
+|4,39,10,0,1661582096,"~/my_script.sh"
+-'  10  0  ~/my_script.sh
+|4,39,10,0,1661582096,"~/my_script.sh"
 -'  10  0  ~/my_script.sh
 |4,39,10,0,1661582096,"~/my_script.sh"
 -'  4  11  ~/my_script.sh
 |4,39,4,11,1661581918,"~/my_script.sh"
 -'  4  11  ~/my_script.sh
 |4,39,4,11,1661581918,"~/my_script.sh"
+-'  4  11  ~/my_script.sh
+|4,39,4,11,1661581918,"~/my_script.sh"
+-'  4  11  ~/my_script.sh
+|4,39,4,11,1661581918,"~/my_script.sh"
+-'  4  11  ~/my_script.sh
+|4,39,4,11,1661581918,"~/my_script.sh"
+-'  4  11  ~/my_script.sh
+|4,39,4,11,1661581918,"~/my_script.sh"
+-'  4  11  ~/my_script.sh
+|4,39,4,11,1661581918,"~/my_script.sh"
+-'  4  11  ~/my_script.sh
+|4,39,4,11,1661581918,"~/my_script.sh"
+-'  4  11  ~/my_script.sh
+|4,39,4,11,1661581918,"~/my_script.sh"
+-'  4  11  ~/my_script.sh
+|4,39,4,11,1661581918,"~/my_script.sh"
+-'  4  11  ~/my_script.sh
+|4,39,4,11,1661581918,"~/my_script.sh"
+-'  4  11  ~/my_script.sh
+|4,39,4,11,1661581918,"~/my_script.sh"
+-'  4  11  ~/my_script.sh
+|4,39,4,11,1661581918,"~/my_script.sh"
+-'  4  11  ~/my_script.sh
+|4,39,4,11,1661581918,"~/my_script.sh"
+-'  4  11  ~/my_script.sh
+|4,39,4,11,1661581918,"~/my_script.sh"
+-'  4  11  ~/my_script.sh
+|4,39,4,11,1661581918,"~/my_script.sh"
 -'  6  11  ~/my_script.sh
 |4,39,6,11,1661581518,"~/my_script.sh"
+-'  6  11  ~/my_script.sh
+|4,39,6,11,1661581518,"~/my_script.sh"
+-'  6  11  ~/my_script.sh
+|4,39,6,11,1661581518,"~/my_script.sh"
+-'  6  11  ~/my_script.sh
+|4,39,6,11,1661581518,"~/my_script.sh"
+-'  6  11  ~/my_script.sh
+|4,39,6,11,1661581518,"~/my_script.sh"
+-'  6  11  ~/my_script.sh
+|4,39,6,11,1661581518,"~/my_script.sh"
+-'  6  11  ~/my_script.sh
+|4,39,6,11,1661581518,"~/my_script.sh"
+-'  6  11  ~/my_script.sh
+|4,39,6,11,1661581518,"~/my_script.sh"
+-'  4  11  ~/my_script.sh
+|4,39,4,11,1661581511,"~/my_script.sh"
+-'  4  11  ~/my_script.sh
+|4,39,4,11,1661581511,"~/my_script.sh"
+-'  4  11  ~/my_script.sh
+|4,39,4,11,1661581511,"~/my_script.sh"
+-'  4  11  ~/my_script.sh
+|4,39,4,11,1661581511,"~/my_script.sh"
+-'  4  11  ~/my_script.sh
+|4,39,4,11,1661581511,"~/my_script.sh"
+-'  4  11  ~/my_script.sh
+|4,39,4,11,1661581511,"~/my_script.sh"
+-'  4  11  ~/my_script.sh
+|4,39,4,11,1661581511,"~/my_script.sh"
 -'  4  11  ~/my_script.sh
 |4,39,4,11,1661581511,"~/my_script.sh"
 -'  1  0  ~/my_script.sh
@@ -69,68 +189,87 @@
 |4,39,1,0,1661581491,"~/my_script.sh"
 -'  1  0  ~/my_script.sh
 |4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
+-'  1  0  ~/my_script.sh
+|4,39,1,0,1661581491,"~/my_script.sh"
 -'  1  0  ~/my
 |4,39,1,0,1661530109,"~/my"
--'  1  0  ~/my
-|4,39,1,0,1661530109,"~/my"
--'  1  0  ~/my
-|4,39,1,0,1661530109,"~/my"
--'  1  0  ~/my
-|4,39,1,0,1661530109,"~/my"
--'  1  0  ~/my
-|4,39,1,0,1661530109,"~/my"
--'  1  0  ~/my
-|4,39,1,0,1661530109,"~/my"
--'  1  0  ~/my
-|4,39,1,0,1661530109,"~/my"
--'  1  0  ~/my
-|4,39,1,0,1661530109,"~/my"
--'  1  0  ~/my
-|4,39,1,0,1661530109,"~/my"
--'  1  0  ~/my
-|4,39,1,0,1661530109,"~/my"
--'  2  27  ~/my_new_file1
-|4,39,2,27,1661520920,"~/my_new_file1"
--'  2  27  ~/my_new_file1
-|4,39,2,27,1661520920,"~/my_new_file1"
--'  2  27  ~/my_new_file1
-|4,39,2,27,1661520920,"~/my_new_file1"
--'  2  27  ~/my_new_file1
-|4,39,2,27,1661520920,"~/my_new_file1"
--'  2  27  ~/my_new_file1
-|4,39,2,27,1661520920,"~/my_new_file1"
--'  2  27  ~/my_new_file1
-|4,39,2,27,1661520920,"~/my_new_file1"
--'  2  27  ~/my_new_file1
-|4,39,2,27,1661520920,"~/my_new_file1"
--'  2  27  ~/my_new_file1
-|4,39,2,27,1661520920,"~/my_new_file1"
--'  2  27  ~/my_new_file1
-|4,39,2,27,1661520920,"~/my_new_file1"
--'  2  27  ~/my_new_file1
-|4,39,2,27,1661520920,"~/my_new_file1"
--'  1  0  ~/my_new_file1
-|4,39,1,0,1661520907,"~/my_new_file1"
--'  1  0  ~/my_new_file1
-|4,39,1,0,1661520907,"~/my_new_file1"
--'  1  0  ~/my_new_file1
-|4,39,1,0,1661520907,"~/my_new_file1"
--'  1  0  ~/my_new_file1
-|4,39,1,0,1661520907,"~/my_new_file1"
--'  1  0  ~/my_new_file1
-|4,39,1,0,1661520907,"~/my_new_file1"
--'  1  0  ~/my_new_file1
-|4,39,1,0,1661520907,"~/my_new_file1"
--'  1  0  ~/my_new_file1
-|4,39,1,0,1661520907,"~/my_new_file1"
--'  1  0  ~/my_new_file1
-|4,39,1,0,1661520907,"~/my_new_file1"
--'  1  0  ~/my_new_file1
-|4,39,1,0,1661520907,"~/my_new_file1"
--'  1  0  ~/my_new_file1
-|4,39,1,0,1661520907,"~/my_new_file1"
 
 # History of marks within files (newest to oldest):
+
+> ~/devops/3.txt
+	*	1661657943	0
+	"	1	9
+	^	1	10
+	.	1	9
+	+	1	9
+
+> ~/devops/2.txt
+	*	1661657797	0
+	"	1	19
+	^	1	20
+	.	1	19
+	+	1	19
+
+> ~/devops/1.txt
+	*	1661657784	0
+	"	2	4
+	^	2	5
+	.	2	4
+	+	2	4
 
 > ~/my_script.sh
 	*	1661581518	0

@@ -336,3 +336,210 @@ ls
 vi my_script.sh
 sh my_script.sh
 vi my_script.sh
+ls
+git init
+git status
+ls
+git add .
+git status
+git commit -m "updated file"
+git diff
+git -diff
+git diff my_script.sh
+git diff my_script.sh my_new_file1
+git --diff
+git remote add origin https://github.com/girirajmpatil/mallikarjun.git
+gir push
+git push
+git config
+git login
+git -login
+git remote add origin "https://github.com/girirajmpatil/mallikarjun.git"
+git push
+git push origin master
+git pull
+git remote add origin "https://github.com/girirajmpatil/mallikarjun.git"
+ls
+git add my_script.sh
+git commit
+git commit -m "updae"
+sudo git push 
+git push --set-upstream origin master
+cd mallikarjun
+cd girirajmpatil/mallikarjun
+git clone "https://github.com/girirajmpatil/mallikarjun.git"
+ls
+git status
+cat mallikarjun
+cd mallikarjun
+ls
+cd ..
+ls
+git add .
+git add my_script.sh
+ls
+git status
+git commit -m "upagdd"
+ls
+git status
+git push
+git push https://github.com/girirajmpatil/mallikarjun.git
+git pull
+git branch --set-upstream-to="https://github.com/girirajmpatil/mallikarjun.git"/master
+git branch --set-upstream-to="https://github.com/girirajmpatil/mallikarjun.git"
+git branch --set-upstream-to=master
+ls
+cd mallikarjun
+ls
+touch giriraj.txt
+git add .
+git commit -m "newfile.txt"
+git status
+git push 
+git status
+history
+cd ..
+ls
+cat my_script.sh
+git remote add origin https://github.com/girirajmpatil/mallikarjun.git
+git push 
+git push origin https://github.com/girirajmpatil/mallikarjun.git
+git push origin "https://github.com/girirajmpatil/mallikarjun.git"
+git push origin master "https://github.com/girirajmpatil/mallikarjun.git"
+git push origin master 
+git congig
+git config
+git -config
+git --config
+git add remote origin https://github.com/girirajmpatil/27.08.2022.git
+git add remote origin "https://github.com/girirajmpatil/27.08.2022.git"
+git remote add origin "https://github.com/girirajmpatil/27.08.2022.git"
+ls
+git status
+git remote add 
+git remote add "https://github.com/girirajmpatil/27.08.2022.git"
+git remote add origin "https://github.com/girirajmpatil/27.08.2022.git"
+ls
+git add .
+ls
+git commit -m "dkg"
+git push
+git push origin master
+git pull
+gir pull remote 27.08.2022
+git pull remote 27.08.2022
+git pull remote 27.08.2022.git
+git status
+git branch
+git branch master
+git branch
+git remote show origin
+ls
+git pull "https://github.com/girirajmpatil/27.08.2022.git"
+git config --global
+git config rebase.false
+git pull config rebase.false
+ls
+git config pull.rebase.false
+ls
+git remote add origin
+git remote add origin "https://github.com/girirajmpatil/27.08.2022.git"
+ls
+git push
+git push --set-upstream origin master
+cd 27.08.2022
+git clone "https://github.com/girirajmpatil/27.08.2022.git"
+ls
+git status
+git add .
+git add 27.08.2022
+ls
+git status
+git commit -m "k"
+git status
+git branch
+git push my_script.sh
+git checkout -b girirajmpatil
+ls
+git push 
+git push  git push --set-upstream origin girirajmpatil
+git push --set-upstream origin girirajmpatil
+ls
+git status
+git push 
+vi stp.sh
+ls
+git add .
+git commit -m " new script file"
+git status
+git push
+ls
+git pull origin master
+git push origin master
+git push --help
+git push --all
+ls
+git push stp.sh
+git push "https://github.com/girirajmpatil/27.08.2022.git"
+ls
+git branch
+git branch master
+git checkout master
+git branch
+ls
+git push --set-upstream origin stp.sh
+git remote add origin "https://github.com/girirajmpatil/27.08.2022.git"
+git fectch
+git remote remove origin
+git branch
+ls
+git init
+ls
+git remote add origin "https://github.com/girirajmpatil/27.08.2022.git"
+ls
+git add my_script.sh
+git commit
+git commit -m "f"
+git push 
+git push origin master
+ls
+git push origin main
+git push origin master
+ls
+git init
+git brach
+git branch
+git add remote origin https://github.com/girirajmpatil/27.08.2022.git
+git remote add origin https://github.com/girirajmpatil/27.08.2022.git
+sudo git remote add origin https://github.com/girirajmpatil/27.08.2022.git
+sudo su
+ls
+touch 1.txt
+touch 2.txt
+ls
+mkdir devops
+ls
+cd devops
+git init
+ls
+touch 1.txt
+vi 1.txt
+vi 2.txt
+git init
+git status
+git add .
+git status
+git commit -m "first commit"
+git status
+vi 3.txt
+git status
+git add 3.txt
+git status
+git commit -m "second changes"
+git status
+git remote add origin "https://github.com/girirajmpatil/devops-course.git"
+git status
+ls
+git push origin master
+git push origin main
+git push origin master
